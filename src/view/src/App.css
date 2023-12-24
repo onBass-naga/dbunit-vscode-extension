@@ -1,0 +1,16 @@
+.App {
+  padding: 16px;
+  height: 100vh;
+}
+
+.rdg-dark .rdg-cell {
+  border: 0.5px solid #333 
+}
+
+.rdg-light .rdg-cell {
+  border: 0.5px solid #ccc 
+}
+
+.rdg {
+  height: 75vh;
+}

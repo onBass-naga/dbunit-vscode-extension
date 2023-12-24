@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <table name="users">
+    <column>id</column>
+    <column>account</column>
+    <column>last_name</column>
+    <column>first_name</column>
+    <column>created_at</column>
+    <row>
+      <value>1</value>
+      <value>master</value>
+      <value>Sample</value>
+      <value>Taro</value>
+      <value><![CDATA[2023-06-07 08:17:00.0]]></value>
+    </row>
+  </table>
+  <table name="roles">
+    <column>id</column>
+    <column>name</column>
+    <row>
+      <value>1</value>
+      <value>admin</value>
+    </row>
+    <row>
+      <value>2</value>
+      <value>operator</value>
+    </row>
+  </table>
+</dataset>

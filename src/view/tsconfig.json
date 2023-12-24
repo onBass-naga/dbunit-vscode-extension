@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "target": "ESNext",
+      "lib": ["dom", "ES2021"],
+      "types": ["vscode-webview"],
+      "sourceMap": true,
+      "strict": true,
+      "jsx": "react-jsx",
+      "moduleResolution": "Node",
+      "esModuleInterop": true,
+      "isolatedModules": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["**/*.ts", "**/*.tsx"]
+  }
+  
